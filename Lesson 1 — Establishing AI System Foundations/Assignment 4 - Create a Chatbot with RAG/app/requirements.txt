@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+chromadb
+requests
+pypdf
+python-docx
+python-dotenv
+numpy
+google-generativeai
+python-dotenv
